@@ -1,3 +1,8 @@
+# Submitted by:
+Sameer Mahajan
+101903686
+Coe26
+
 # RoadDataset-TimeSeriesPrediction
 This repository helps in performing time series prediction on Road Dataset of nearly 25Kms
 
